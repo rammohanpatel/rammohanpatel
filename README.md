@@ -4,12 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Student+Of+IIT+Kharagpur..&hearts;++;Self-taught+Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -61,12 +56,7 @@
 <br>
 
 </p>
-
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/rammohanpatel" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
@@ -74,14 +64,14 @@
 
 <li>
 <a href="https://www.linkedin.com/in/ram-mohan-patel-1b5597220" target="_blank">
-<img src="https://img.shields.io/badge/-Ram%20Mohan%20-blue" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/-LinkedIn%20-blue" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 
 <li>
 <a href="mram41614@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Ram%20Mohan%20-blue" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-G--mail-blue" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
