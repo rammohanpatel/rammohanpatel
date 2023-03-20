@@ -18,7 +18,6 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/16g1hKe0RjFDLYk34v3TPHO_0-H0gsSQ72eDG-P5_zZ4/edit)
 - Connect with me  [link](https://www.linkedin.com/in/ram-mohan-patel-1b5597220)
@@ -37,6 +36,7 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-blue)	
 
 <br>   
     
@@ -45,15 +45,11 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![ReactJs](https://img.shields.io/badge/-ReactJs-blue)
+   ![Tailwind Css](https://img.shields.io/badge/-Tailwind%20Css-blue)	
 
 <br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
+	
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,12 +60,6 @@
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
 
 <br>
@@ -78,13 +68,6 @@
 -----
 
 <br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-
-
 <br>
 <br>
 <br>
@@ -102,7 +85,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/ram-mohan-patel-1b5597220" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/-Ram%20Mohan%20-blue" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -114,7 +97,7 @@
 
 <li>
 <a href="mram41614@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/-Ram%20Mohan%20-blue" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -143,4 +126,3 @@
 
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
