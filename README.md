@@ -62,17 +62,6 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-<br>
-<br>
-<br>
-
------
 
 <br>
 <br>
@@ -89,11 +78,6 @@
 </a>
 </li>
 
-<br>
-
-
-
-<br>
 
 <li>
 <a href="mram41614@gmail.com" target="_blank">
@@ -107,22 +91,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
-<div align='center'>
-
-## <b>May the peace, blessings, and mercy of God be upon you...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
 
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
