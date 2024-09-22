@@ -12,9 +12,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/16g1hKe0RjFDLYk34v3TPHO_0-H0gsSQ72eDG-P5_zZ4/edit)
+- A passionate Full-Stack developer
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1pAAbW1A5ai6pzoahFKNutZBQ6h97OCdu/view?usp=sharing)
 - Connect with me  [link](https://www.linkedin.com/in/ram-mohan-patel-1b5597220)
 
 <br><br>
