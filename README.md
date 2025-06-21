@@ -1,83 +1,91 @@
+----------------------------------------------------------------------
 
-<h1 align="center"><b>Hi , I'm Ram Mohan Patel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Student+Of+IIT+Kharagpur..&hearts;++;Self-taught+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-<br>
-	
-## **About me**
-
-<br>
-
-- A passionate Full-Stack developer
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1pAAbW1A5ai6pzoahFKNutZBQ6h97OCdu/view?usp=sharing)
-- Connect with me  [link](https://www.linkedin.com/in/ram-mohan-patel-1b5597220)
-
-<br><br>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-blue)	
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![ReactJs](https://img.shields.io/badge/-ReactJs-blue)
-   ![Tailwind Css](https://img.shields.io/badge/-Tailwind%20Css-blue)	
-
-<br>
-	
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-</p>
-## <b> Let's Connect..!</b>
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/ram-mohan-patel-1b5597220" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn%20-blue" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-<li>
-<a href="mram41614@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-G--mail-blue" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ram Mohan Patel</h1></summary>
+  </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<!--Intro start-->
+- 🔭 I’m currently working on **React.js, Next.js, Nodejs, MongoDB**
+
+- 🌱 I’m currently learning **System Design**
+
+- 📝 I write articles on [Medium](https://medium.com/@mram41614)
+
+- Quote : <em>“Arise! Awake! and stop not until the goal is reached.”</em>
+
+<!--Intro end-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,redux,tailwind,c,cpp,html,css,js,py,mysql,bootstrap,git,github,gitlab,docker,vscode&perline=10" />
+  </a>
+</p>
+<p align="center">
+  <strong>Programming Languages:</strong> C | C++ | HTML | CSS | JavaScript | Python | SQL<br/>
+  <strong>Framework and Libraries:</strong> React.js | Next.js | Express.js | Node.js | Redux | Tailwind CSS | Bootstrap | C++ STL<br/>
+  <strong>Tools:</strong> Git | GitHub | GitLab | Docker | VS Code
+</p>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rammohanpatel&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rammohanpatel&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rammohanpatel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rammohanpatel&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/ram-mohan-patel-1b5597220/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/crazyrammohan" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=rammohanpatel&color=brightgreen)
+  
+</div>
+
+----------------------------------------------------------------------
+Credit: [1010nishant](https://github.com/1010nishant)
